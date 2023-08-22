@@ -7,5 +7,6 @@ export const ComponenteGrafico = styled.div`
 
     height: 300px;
     border-radius: 10px;
+    padding: 20px;
 
 `
