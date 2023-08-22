@@ -1,9 +1,12 @@
 import styled from 'styled-components'
 
 export const Retangulo = styled.section`
-    height:100vh;
-    width: 100vw;
-    text-align: center;
-    align-items: center;
+    height: 400px;
+    width: 30em;
+
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    
     
 `
