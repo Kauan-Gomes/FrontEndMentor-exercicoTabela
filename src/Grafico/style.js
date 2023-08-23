@@ -8,5 +8,13 @@ export const ComponenteGrafico = styled.div`
     height: 300px;
     border-radius: 10px;
     padding: 20px;
+    padding-bottom: 60px;
 
+`
+
+
+export const Componentetexto = styled.div`
+    display:flex;
+    justify-content:space-between;
+    margin-top: 20px;
 `

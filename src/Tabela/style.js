@@ -6,5 +6,6 @@ export const Dados = styled.div`
     display: flex;
     justify-content:space-around;
     align-items: end;
+    border-bottom: 2px solid var(--Medium-brown);
     
 `

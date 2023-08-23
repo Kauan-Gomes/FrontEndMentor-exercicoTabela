@@ -6,9 +6,10 @@
 
   /* cores secundarias */
   --Dark-brown: hsl(25, 47%, 15%);
-  --Medium-brown: hsl(28, 10%, 53%);
+  --Medium-brown: hsla(28, 10%, 53%, 0.295);
   --Cream: hsl(27, 66%, 92%);
   --Very-pale-orange: hsl(33, 100%, 98%);
+  --Dark-brown-transparent: hsl(25, 47%, 15%, 0.6);
 
   /* fonte */
   --fonte-principal: 'DM Sans', sans-serif;
