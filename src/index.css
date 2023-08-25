@@ -21,6 +21,7 @@
 body {
   margin: 0;
   height: 100vh;
+
   width:100vw;
   Font-size: 18px;
   font-weight: 400;
@@ -29,6 +30,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  
 }
+
+
 

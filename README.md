@@ -16,3 +16,6 @@ Seus usuários devem ser capazes de:
 - Veja a barra do dia atual destacada em uma cor diferente das outras barras
 - Veja o layout ideal para o conteúdo dependendo do tamanho da tela do dispositivo
 - Veja os estados de foco para todos os elementos interativos na página
+
+![](./public/img/tela1.png)
+![](./public/img/tela2.png)
